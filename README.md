@@ -5,4 +5,4 @@ The Mesh network is made up of a Particle Argon located centrally in the home an
 
 All of this is open-source code and hardware so feel free use it for your own project. ;)
 
-Images are located in the Particle Home Mesh folder.  There is a 3d print model of a wall mount that holds the Particle Argon.  It can be used for the Boron, or Xenon, or any of the Adafruit Feather boards.  I used one of the Featherwing Proto Boards and hot-glued it to the wall mount.  The Argon plugs into it.  I prefer to use hot-glue instead of screws.  It's plenty strong but also easy to remove without any damage.
+Images are located in the Particle Home Mesh folder.  There is a 3d print model of a wall mount that holds the Particle Argon.  It can be used for the Boron, or Xenon, or any of the Adafruit Feather boards.  I used one of the Featherwing Proto Boards and hot-glued it to the wall mount.  The Argon plugs into it.  I prefer to use hot-glue instead of screws.  It's plenty strong but also easy to remove without any damage.  Located in the Feather-Wall-Mount folder.
